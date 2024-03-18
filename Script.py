@@ -221,7 +221,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═════════════════════ 
-𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @ROYALMOVIESKING1</b>"""
+𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :-<a href='https://t.me/+tR1yQ2hrL0U3ZDBl'>Group</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -451,7 +451,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
-<a href=''>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+<a href='https://t.me/+tR1yQ2hrL0U3ZDBl'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
 
 Prime Membership Progress
 
